@@ -1,8 +1,8 @@
-#### Inter-crossedCNNLSTM: A Means to generate a New Vision for Hyperspectral Image Classification
+#### Inter-crossedCL: A Means to generate a New Vision for Hyperspectral Image Classification
 # Illustration
 We combined 3DCNN, 2DCNN and LSTM models and they helped to overcome all the challenges which are faced during exclusively and severally applying all the supervised models at the time of Hyperspectral image classification.
 
-# Inter-crossedCNNLSTM Model
+# Inter-crossedCL Model
 
 ![](101.jpg)
 
@@ -24,6 +24,3 @@ need to copy that id from google drive and subsequently paste it on google colab
 # DATA SOURCE
 We got four different types of hyperspectral datasets namely Indian Pines, Pavia University, Botswana, and Kennedy Space Center
 from the site: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes  
-
-# Inter-crossedCNNLSTM
-# Inter-crossedCL
